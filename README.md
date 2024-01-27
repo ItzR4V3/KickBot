@@ -19,7 +19,7 @@ This Discord bot, named KickBot, is designed to manage server membership based o
 
 1. **Clone the Repository:**
 
-    git clone https://github.com/your-username/discord-account-age-bot.git
+    git clone https://github.com/ItzR4V3/KickBot
 
 
 2. **Replace 'BOT TOKEN' in the Script:**
